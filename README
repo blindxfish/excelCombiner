@@ -22,7 +22,7 @@
 
     2) Open the main folder in your IDE terminal or terminal and run the command >npm install
     
-    3) Put all the excel files you want to combine in the files folder
+    3) Put all the excel files you want to combine in the "files" folder
     
     4) Customize the code in the index.js, it is prety easy to follow the code and you can see some exampe data I used there.
 
