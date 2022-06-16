@@ -16,18 +16,18 @@
 
 ----------------8<-------------[ cut here ]------------------
 
-*** HOW IT WORKS:
+***HOW IT WORKS:
 
     1) You shall have NODEJS installed on your pc: https://nodejs.org/en/download/
 
     2) Open the main folder in your IDE terminal or terminal and run the command >npm install
     
-    3) Put all the excel files you want to combine in the "files" folder
+    3) Put all the excel files you want to combine in the "files" folder, if it is not there create it.
     
     4) Customize the code in the index.js, it is prety easy to follow the code and you can see some exampe data I used there.
 
-    5) To start the run the command >node index.js in the terminal or IDE terminal
+    5) To start, run the command >node index.js in the terminal or IDE terminal
 
-    6) You will het the output file in the same folder where the index.js is located.
+    6) You will have the output file in the same folder where the index.js is located.
 
 ----------------8<-------------[ cut here ]------------------
